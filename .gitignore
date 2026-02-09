@@ -1,0 +1,21 @@
+# Python files
+*.py
+*.pyc
+*.pyo
+__pycache__/
+*.bat
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

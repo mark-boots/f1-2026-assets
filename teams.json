@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Alpine",
+    "slug": "alpine",
+    "team_id": "alpine",
+    "url": "https://www.formula1.com/en/teams/alpine",
+    "colours": {
+      "team": "#00A1E8",
+      "accessible": "#005081"
+    },
+    "profile": {
+      "Full Team Name": "BWT Alpine Formula One Team",
+      "Base": "Enstone, United Kingdom",
+      "Team Chief": "Flavio Briatore",
+      "Technical Chief": "David Sanchez",
+      "Chassis": "A526",
+      "Power Unit": "Mercedes",
+      "Reserve Driver": "Jack Doohan, Paul Aron, Kush Maini",
+      "First Team Entry": "1986"
+    }
+  },
+  {
+    "name": "Aston Martin",
+    "slug": "aston-martin",
+    "team_id": "astonmartin",
+    "url": "https://www.formula1.com/en/teams/aston-martin",
+    "colours": {
+      "team": "#229971",
+      "accessible": "#00482C"
+    },
+    "profile": {
+      "Full Team Name": "Aston Martin Aramco Formula One Team",
+      "Base": "Silverstone, United Kingdom",
+      "Team Chief": "Adrian Newey",
+      "Technical Chief": "Enrico Cardile",
+      "Chassis": "AMR26",
+      "Power Unit": "Honda",
+      "Reserve Driver": "Jak Crawford",
+      "First Team Entry": "2018"
+    }
+  },
+  {
+    "name": "Audi",
+    "slug": "audi",
+    "team_id": "audi",
+    "url": "https://www.formula1.com/en/teams/audi",
+    "colours": {
+      "team": "#F50537",
+      "accessible": "#6B0015"
+    },
+    "profile": {
+      "Full Team Name": "Audi Revolut F1 Team",
+      "Base": "Hinwil, Switzerland",
+      "Team Chief": "Jonathan Wheatley",
+      "Technical Chief": "James Key",
+      "Chassis": "R26",
+      "Power Unit": "Audi",
+      "Reserve Driver": "",
+      "First Team Entry": "2026"
+    }
+  },
+  {
+    "name": "Cadillac",
+    "slug": "cadillac",
+    "team_id": "cadillac",
+    "url": "https://www.formula1.com/en/teams/cadillac",
+    "colours": {
+      "team": "#909090",
+      "accessible": "#444444"
+    },
+    "profile": {
+      "Full Team Name": "Cadillac Formula 1 Team",
+      "Base": "Silverstone, United Kingdom",
+      "Team Chief": "Graeme Lowdon",
+      "Technical Chief": "Nick Chester",
+      "Chassis": "TBC",
+      "Power Unit": "Ferrari",
+      "Reserve Driver": "Zhou Guanyu",
+      "First Team Entry": "2026"
+    }
+  },
+  {
+    "name": "Ferrari",
+    "slug": "ferrari",
+    "team_id": "ferrari",
+    "url": "https://www.formula1.com/en/teams/ferrari",
+    "colours": {
+      "team": "#ED1131",
+      "accessible": "#710006"
+    },
+    "profile": {
+      "Full Team Name": "Scuderia Ferrari HP",
+      "Base": "Maranello, Italy",
+      "Team Chief": "Frédéric Vasseur",
+      "Technical Chief": "Loic Serra / Enrico Gualtieri",
+      "Chassis": "SF-26",
+      "Power Unit": "Ferrari",
+      "Reserve Driver": "Antonio Giovinazzi",
+      "First Team Entry": "1950"
+    }
+  },
+  {
+    "name": "Haas F1 Team",
+    "slug": "haas",
+    "team_id": "haas",
+    "url": "https://www.formula1.com/en/teams/haas",
+    "colours": {
+      "team": "#9C9FA2",
+      "accessible": "#4D5052"
+    },
+    "profile": {
+      "Full Team Name": "TGR Haas F1 Team",
+      "Base": "Kannapolis, United States",
+      "Team Chief": "Ayao Komatsu",
+      "Technical Chief": "Andrea De Zordo",
+      "Chassis": "VF-26",
+      "Power Unit": "Ferrari",
+      "Reserve Driver": "Ryo Hirakawa",
+      "First Team Entry": "2016"
+    }
+  },
+  {
+    "name": "McLaren",
+    "slug": "mclaren",
+    "team_id": "mclaren",
+    "url": "https://www.formula1.com/en/teams/mclaren",
+    "colours": {
+      "team": "#F47600",
+      "accessible": "#863400"
+    },
+    "profile": {
+      "Full Team Name": "McLaren Mastercard F1 Team",
+      "Base": "Woking, United Kingdom",
+      "Team Chief": "Andrea Stella",
+      "Technical Chief": "Peter Prodromou / Neil Houldey",
+      "Chassis": "MCL40",
+      "Power Unit": "Mercedes",
+      "Reserve Driver": "Leonardo Fornaroli, Pato O’Ward",
+      "First Team Entry": "1966"
+    }
+  },
+  {
+    "name": "Mercedes",
+    "slug": "mercedes",
+    "team_id": "mercedes",
+    "url": "https://www.formula1.com/en/teams/mercedes",
+    "colours": {
+      "team": "#00D7B6",
+      "accessible": "#007560"
+    },
+    "profile": {
+      "Full Team Name": "Mercedes-AMG PETRONAS Formula One Team",
+      "Base": "Brackley, United Kingdom",
+      "Team Chief": "Toto Wolff",
+      "Technical Chief": "James Allison",
+      "Chassis": "W17",
+      "Power Unit": "Mercedes",
+      "Reserve Driver": "Fred Vesti",
+      "First Team Entry": "1970"
+    }
+  },
+  {
+    "name": "Racing Bulls",
+    "slug": "racing-bulls",
+    "team_id": "racingbulls",
+    "url": "https://www.formula1.com/en/teams/racing-bulls",
+    "colours": {
+      "team": "#6C98FF",
+      "accessible": "#2345AB"
+    },
+    "profile": {
+      "Full Team Name": "Visa Cash App Racing Bulls Formula One Team",
+      "Base": "Faenza, Italy",
+      "Team Chief": "Alan Permane",
+      "Technical Chief": "Tim Goss",
+      "Chassis": "VCARB 03",
+      "Power Unit": "Red Bull Ford",
+      "Reserve Driver": "Yuki Tsunoda",
+      "First Team Entry": "1985"
+    }
+  },
+  {
+    "name": "Red Bull Racing",
+    "slug": "red-bull-racing",
+    "team_id": "redbullracing",
+    "url": "https://www.formula1.com/en/teams/red-bull-racing",
+    "colours": {
+      "team": "#4781D7",
+      "accessible": "#003282"
+    },
+    "profile": {
+      "Full Team Name": "Oracle Red Bull Racing",
+      "Base": "Milton Keynes, United Kingdom",
+      "Team Chief": "Laurent Mekies",
+      "Technical Chief": "Pierre Waché",
+      "Chassis": "RB22",
+      "Power Unit": "Red Bull Ford",
+      "Reserve Driver": "",
+      "First Team Entry": "1997"
+    }
+  },
+  {
+    "name": "Williams",
+    "slug": "williams",
+    "team_id": "williams",
+    "url": "https://www.formula1.com/en/teams/williams",
+    "colours": {
+      "team": "#1868DB",
+      "accessible": "#000681"
+    },
+    "profile": {
+      "Full Team Name": "Atlassian Williams F1 Team",
+      "Base": "Grove, United Kingdom",
+      "Team Chief": "James Vowles",
+      "Technical Chief": "Pat Fry",
+      "Chassis": "FW48",
+      "Power Unit": "Mercedes",
+      "Reserve Driver": "",
+      "First Team Entry": "1978"
+    }
+  }
+]

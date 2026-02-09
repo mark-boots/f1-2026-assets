@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Formula1 Italic",
+    "family": "Formula1",
+    "file": "fonts/formula1/Formula1-Italic.woff2",
+    "file_otf": "fonts/formula1/Formula1-Italic.otf",
+    "url": "https://www.formula1.com/s/fonts/formula1/Formula1-Italic.woff2",
+    "weight": 400,
+    "style": "italic"
+  },
+  {
+    "name": "Formula1 Regular",
+    "family": "Formula1",
+    "file": "fonts/formula1/Formula1-Regular.woff2",
+    "file_otf": "fonts/formula1/Formula1-Regular.otf",
+    "url": "https://www.formula1.com/s/fonts/formula1/Formula1-Regular.woff2",
+    "weight": 400,
+    "style": "normal"
+  },
+  {
+    "name": "Formula1 Bold",
+    "family": "Formula1",
+    "file": "fonts/formula1/Formula1-Bold.woff2",
+    "file_otf": "fonts/formula1/Formula1-Bold.otf",
+    "url": "https://www.formula1.com/s/fonts/formula1/Formula1-Bold.woff2",
+    "weight": 500,
+    "style": "normal"
+  },
+  {
+    "name": "Formula1 Black",
+    "family": "Formula1",
+    "file": "fonts/formula1/Formula1-Black.woff2",
+    "file_otf": "fonts/formula1/Formula1-Black.otf",
+    "url": "https://www.formula1.com/s/fonts/formula1/Formula1-Black.woff2",
+    "weight": 900,
+    "style": "normal"
+  },
+  {
+    "name": "Formula1Digits Regular",
+    "family": "Formula1Digits",
+    "file": "fonts/formula1/Formula1-Year.woff2",
+    "file_otf": "fonts/formula1/Formula1-Year.otf",
+    "url": "https://www.formula1.com/s/fonts/formula1/Formula1-Year.woff2",
+    "weight": 400,
+    "style": "normal"
+  },
+  {
+    "name": "Formula1Wide",
+    "family": "Formula1Wide",
+    "file": "fonts/formula1/Formula1-Wide.woff2",
+    "file_otf": "fonts/formula1/Formula1-Wide.otf",
+    "url": "https://www.formula1.com/s/fonts/formula1/Formula1-Wide.woff2",
+    "weight": 500,
+    "style": "normal"
+  },
+  {
+    "name": "KH Interference Regular",
+    "family": "KH Interference",
+    "file": "fonts/kh-interference/KHInterference-Regular.woff2",
+    "file_otf": "fonts/kh-interference/KHInterference-Regular.otf",
+    "url": "https://www.formula1.com/s/fonts/kh-interference/KHInterference-Regular.woff2",
+    "weight": 400,
+    "style": "normal"
+  },
+  {
+    "name": "KH Interference Bold",
+    "family": "KH Interference",
+    "file": "fonts/kh-interference/KHInterference-Bold.woff2",
+    "file_otf": "fonts/kh-interference/KHInterference-Bold.otf",
+    "url": "https://www.formula1.com/s/fonts/kh-interference/KHInterference-Bold.woff2",
+    "weight": 700,
+    "style": "normal"
+  },
+  {
+    "name": "KH Interference F1 Regular",
+    "family": "KH Interference F1",
+    "file": "fonts/kh-interference-f1/KHInterferenceF1-Regular.woff2",
+    "file_otf": "fonts/kh-interference-f1/KHInterferenceF1-Regular.otf",
+    "url": "https://www.formula1.com/s/fonts/kh-interference-f1/KHInterferenceF1-Regular.woff2",
+    "weight": 400,
+    "style": "normal"
+  },
+  {
+    "name": "KH Interference F1 Bold",
+    "family": "KH Interference F1",
+    "file": "fonts/kh-interference-f1/KHInterferenceF1-Bold.woff2",
+    "file_otf": "fonts/kh-interference-f1/KHInterferenceF1-Bold.otf",
+    "url": "https://www.formula1.com/s/fonts/kh-interference-f1/KHInterferenceF1-Bold.woff2",
+    "weight": 700,
+    "style": "normal"
+  },
+  {
+    "name": "Northwell Regular",
+    "family": "Northwell",
+    "file": "fonts/northwell/northwell.woff2",
+    "file_otf": "fonts/northwell/northwell.otf",
+    "url": "https://www.formula1.com/s/fonts/northwell/northwell.woff2",
+    "weight": 400,
+    "style": "normal"
+  },
+  {
+    "name": "Northwell Alt Regular",
+    "family": "Northwell Alt",
+    "file": "fonts/northwell/northwell-alt.woff2",
+    "file_otf": "fonts/northwell/northwell-alt.otf",
+    "url": "https://www.formula1.com/s/fonts/northwell/northwell-alt.woff2",
+    "weight": 400,
+    "style": "normal"
+  },
+  {
+    "name": "Northwell Clean Regular",
+    "family": "Northwell Clean",
+    "file": "fonts/northwell/northwell-clean.woff2",
+    "file_otf": "fonts/northwell/northwell-clean.otf",
+    "url": "https://www.formula1.com/s/fonts/northwell/northwell-clean.woff2",
+    "weight": 400,
+    "style": "normal"
+  },
+  {
+    "name": "Northwell Clean Alt Regular",
+    "family": "Northwell Clean Alt",
+    "file": "fonts/northwell/northwell-clean-alt.woff2",
+    "file_otf": "fonts/northwell/northwell-clean-alt.otf",
+    "url": "https://www.formula1.com/s/fonts/northwell/northwell-clean-alt.woff2",
+    "weight": 400,
+    "style": "normal"
+  }
+]

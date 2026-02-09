@@ -1,0 +1,80 @@
+[
+  {
+    "name": "F1 Logo",
+    "background": "white",
+    "url": "assets/f1logo.svg",
+    "category": "logo"
+  },
+  {
+    "name": "F2 Logo",
+    "background": "white",
+    "url": "assets/f2logo.svg",
+    "category": "logo"
+  },
+  {
+    "name": "F3 Logo",
+    "background": "white",
+    "url": "assets/f3logo.svg",
+    "category": "logo"
+  },
+  {
+    "name": "Stripes Pattern",
+    "background": "white",
+    "url": "assets/f1stripespattern.svg",
+    "category": "pattern"
+  },
+  {
+    "name": "DRS G Pattern",
+    "background": "#ffffff",
+    "url": "https://www.formula1.com/assets/home/_next/static/media/DRS-G-2x~444bb8a2f38894fc.444bb8a2.webp",
+    "category": "pattern"
+  },
+  {
+    "name": "DRS D Pattern",
+    "background": "#ffffff",
+    "url": "https://www.formula1.com/assets/home/_next/static/media/DRS-D-2x~b150f9485e396e0b.b150f948.webp",
+    "category": "pattern"
+  },
+  {
+    "name": "Stripe",
+    "background": "#ffffff",
+    "url": "assets/stripe.svg",
+    "category": "pattern"
+  },
+  {
+    "name": "Stripe 2",
+    "background": "#ffffff",
+    "url": "assets/stripe-2.svg",
+    "category": "pattern"
+  },
+  {
+    "name": "F1 TV Logo",
+    "background": "white",
+    "url": "assets/f1tvlogo.svg",
+    "category": "logo"
+  },
+  {
+    "name": "FIA Logo",
+    "background": "white",
+    "url": "assets/fialogo.svg",
+    "category": "logo"
+  },
+  {
+    "name": "DHL Logo",
+    "background": "white",
+    "url": "assets/dhllogo.svg",
+    "category": "logo"
+  },
+  {
+    "name": "Pirelli Logo",
+    "background": "white",
+    "url": "assets/pirellilogo.svg",
+    "category": "logo"
+  },
+  {
+    "name": "Salesforce Logo",
+    "background": "white",
+    "url": "assets/salesforcelogo.svg",
+    "category": "logo"
+  }
+]
