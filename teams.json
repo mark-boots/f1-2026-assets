@@ -5,8 +5,8 @@
     "team_id": "alpine",
     "url": "https://www.formula1.com/en/teams/alpine",
     "colours": {
-      "team": "#00A1E8",
-      "accessible": "#005081"
+      "team": "#00a1e8",
+      "accessible": "#004e70"
     },
     "profile": {
       "Full Team Name": "BWT Alpine Formula One Team",
@@ -26,7 +26,7 @@
     "url": "https://www.formula1.com/en/teams/aston-martin",
     "colours": {
       "team": "#229971",
-      "accessible": "#00482C"
+      "accessible": "#0f4331"
     },
     "profile": {
       "Full Team Name": "Aston Martin Aramco Formula One Team",
@@ -45,8 +45,8 @@
     "team_id": "audi",
     "url": "https://www.formula1.com/en/teams/audi",
     "colours": {
-      "team": "#F50537",
-      "accessible": "#6B0015"
+      "team": "#ff2d00",
+      "accessible": "#751500"
     },
     "profile": {
       "Full Team Name": "Audi Revolut F1 Team",
@@ -65,8 +65,8 @@
     "team_id": "cadillac",
     "url": "https://www.formula1.com/en/teams/cadillac",
     "colours": {
-      "team": "#909090",
-      "accessible": "#444444"
+      "team": "#aaaaad",
+      "accessible": "#58585b"
     },
     "profile": {
       "Full Team Name": "Cadillac Formula 1 Team",
@@ -85,8 +85,8 @@
     "team_id": "ferrari",
     "url": "https://www.formula1.com/en/teams/ferrari",
     "colours": {
-      "team": "#ED1131",
-      "accessible": "#710006"
+      "team": "#e8002d",
+      "accessible": "#5c0012"
     },
     "profile": {
       "Full Team Name": "Scuderia Ferrari HP",
@@ -105,8 +105,8 @@
     "team_id": "haas",
     "url": "https://www.formula1.com/en/teams/haas",
     "colours": {
-      "team": "#9C9FA2",
-      "accessible": "#4D5052"
+      "team": "#dee1e2",
+      "accessible": "#667175"
     },
     "profile": {
       "Full Team Name": "TGR Haas F1 Team",
@@ -125,8 +125,8 @@
     "team_id": "mclaren",
     "url": "https://www.formula1.com/en/teams/mclaren",
     "colours": {
-      "team": "#F47600",
-      "accessible": "#863400"
+      "team": "#ff8000",
+      "accessible": "#804000"
     },
     "profile": {
       "Full Team Name": "McLaren Mastercard F1 Team",
@@ -145,8 +145,8 @@
     "team_id": "mercedes",
     "url": "https://www.formula1.com/en/teams/mercedes",
     "colours": {
-      "team": "#00D7B6",
-      "accessible": "#007560"
+      "team": "#27f4d2",
+      "accessible": "#067e6a"
     },
     "profile": {
       "Full Team Name": "Mercedes-AMG PETRONAS Formula One Team",
@@ -165,8 +165,8 @@
     "team_id": "racingbulls",
     "url": "https://www.formula1.com/en/teams/racing-bulls",
     "colours": {
-      "team": "#6C98FF",
-      "accessible": "#2345AB"
+      "team": "#6692ff",
+      "accessible": "#0038c2"
     },
     "profile": {
       "Full Team Name": "Visa Cash App Racing Bulls Formula One Team",
@@ -185,8 +185,8 @@
     "team_id": "redbullracing",
     "url": "https://www.formula1.com/en/teams/red-bull-racing",
     "colours": {
-      "team": "#4781D7",
-      "accessible": "#003282"
+      "team": "#3671c6",
+      "accessible": "#142948"
     },
     "profile": {
       "Full Team Name": "Oracle Red Bull Racing",
@@ -205,8 +205,8 @@
     "team_id": "williams",
     "url": "https://www.formula1.com/en/teams/williams",
     "colours": {
-      "team": "#1868DB",
-      "accessible": "#000681"
+      "team": "#1868db",
+      "accessible": "#082145"
     },
     "profile": {
       "Full Team Name": "Atlassian Williams F1 Team",
